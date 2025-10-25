@@ -1,11 +1,11 @@
 # Python-for-linear-algebra
 
-# Overview
+## Overview
 This project was developed by reproducing and implementing the code presented in the YouTube tutorial linked below.
 
 [YouTube Tutorial](https://youtu.be/JSjWltL9-7M?si=0Gf0i9TeLjxnAmla)
 
-# Files
+## Files
 - `Variables and Arithmetics.ipynb`
 - `Numpy Module.ipynb`
 - `Matplotlib Module.ipynb`
@@ -16,7 +16,7 @@ This project was developed by reproducing and implementing the code presented in
 - `Matrix Multiplication.ipynb`
 - `Matrix Inverse.ipynb`
 
-# Requirements
+## Requirements
 - Python 3.x
 - NumPy
 - Matplotlib
